@@ -15,3 +15,4 @@ https://desenvolvimentoparaweb.com/miscelanea/api-restful-melhores-praticas-part
 
 Funções assíncronas:
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/async_function
+
